@@ -116,6 +116,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 #if defined(__has_feature) && __has_feature(modules)
 @import UIKit;
+@import ObjectiveC;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -135,6 +136,24 @@ SWIFT_CLASS("_TtC6nitaku11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+SWIFT_CLASS("_TtC6nitaku15GetQuestionList")
+@interface GetQuestionList : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC6nitaku8Question")
+@interface Question : NSObject
+@property (nonatomic, copy) NSString * _Nonnull id;
+@property (nonatomic, copy) NSString * _Nonnull text;
+@property (nonatomic, copy) NSString * _Nonnull imagePath;
+@property (nonatomic, copy) NSString * _Nonnull answer1;
+@property (nonatomic, copy) NSString * _Nonnull answer2;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (Question * _Nonnull)getQuestionWithId:(NSString * _Nonnull)id;
+@end
+
 @class UIButton;
 @class NSBundle;
 @class NSCoder;
@@ -149,6 +168,8 @@ SWIFT_CLASS("_TtC6nitaku14ViewController")
 - (IBAction)tapNO:(id _Nonnull)sender;
 - (void)hiddenBtn;
 - (void)showGraph;
+- (void)showNextQuestionBtn;
+- (IBAction)tapNextButton:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

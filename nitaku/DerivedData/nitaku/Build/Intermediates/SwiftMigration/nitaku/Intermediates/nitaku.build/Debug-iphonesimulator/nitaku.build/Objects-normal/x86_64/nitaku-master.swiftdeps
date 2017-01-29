@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "bfe3c1fcd06b5f3d884ffea1783896f4"
+build_time: [538999918, 811630000]
+inputs:
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/ViewController.swift": [538999817, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/AppDelegate.swift": [538986276, 0]

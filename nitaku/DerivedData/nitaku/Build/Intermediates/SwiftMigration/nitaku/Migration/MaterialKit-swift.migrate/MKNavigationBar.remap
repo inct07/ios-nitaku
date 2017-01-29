@@ -1,0 +1,105 @@
+[
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 167,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 257,
+  "remove": 5,
+  "text": "(x: ",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 265,
+  "text": "y: ",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 270,
+  "text": "width: ",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 282,
+  "remove": 9,
+  "text": "n",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 311,
+  "text": "height: ",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 340,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 453,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 575,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 615,
+  "remove": 8,
+  "text": "e",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 750,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 793,
+  "remove": 8,
+  "text": "y",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 922,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 1409,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 1507,
+  "text": "file",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 1948,
+  "text": "file",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 2187,
+  "remove": 11,
+  "text": ".cgC",
+ },
+ {
+  "file": "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift",
+  "offset": 2355,
+  "remove": 2,
+  "text": "cg",
+ }
+]

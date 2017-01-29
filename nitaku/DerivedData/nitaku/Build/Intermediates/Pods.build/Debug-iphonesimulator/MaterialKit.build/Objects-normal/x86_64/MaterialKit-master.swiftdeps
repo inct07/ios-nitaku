@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "234fa0451d1caf0aa5186e3c3ef8944f"
+build_time: [538999945, 449125000]
+inputs:
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKActivityIndicator.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKButton.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKCardView.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKCollectionViewCell.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKColor.swift": !dirty [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKEmbedDrawerControllerSegue.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKEmbedMainControllerSegue.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKImageView.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKLabel.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKLayer.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKRefreshControl.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSideDrawerViewController.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSnackbar.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSwitch.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKTableViewCell.swift": !dirty [538999942, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKTextField.swift": !dirty [538999942, 0]

@@ -1,6 +1,8 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "84ff14ec99edec38a815067b771d7a37"
-build_time: [538998227, 630656000]
+options: "f11f34e4c69e461eea4058381de31d40"
+build_time: [539002349, 822240000]
 inputs:
-  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/ViewController.swift": [538998226, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/GetQuestionList.swift": [539002322, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/Question.swift": [539002326, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/ViewController.swift": [539002348, 0]
   "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/nitaku/AppDelegate.swift": [538986276, 0]

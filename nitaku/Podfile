@@ -6,5 +6,4 @@ target 'nitaku' do
   use_frameworks!
 
   # Pods for nitaku
-  pod 'MaterialKit', '~> 0.4'
 end

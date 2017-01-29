@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/MaterialKit/MaterialKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MaterialKit-Swift.h",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/MaterialKit/MaterialKit.framework/Headers/MaterialKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MaterialKit-umbrella.h",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/Target Support Files/MaterialKit/MaterialKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/MaterialKit/MaterialKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Intermediates/Pods.build/Debug-iphonesimulator/MaterialKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/Pods_nitaku.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-nitaku-umbrella.h",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/Target Support Files/Pods-nitaku/Pods-nitaku-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_nitaku-Swift.h",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/Pods_nitaku.framework/Headers/Pods_nitaku-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Products/Debug-iphonesimulator/Pods_nitaku.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/DerivedData/nitaku/Build/Intermediates/SwiftMigration/nitaku/Intermediates/Pods.build/Debug-iphonesimulator/Pods-nitaku.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

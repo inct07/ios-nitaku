@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "23b1fe928296fd4599ff5ac38c737c6d"
+build_time: [538999903, 20132000]
+inputs:
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKActivityIndicator.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKButton.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKCardView.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKCollectionViewCell.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKColor.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKEmbedDrawerControllerSegue.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKEmbedMainControllerSegue.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKImageView.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKLabel.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKLayer.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKNavigationBar.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKRefreshControl.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSideDrawerViewController.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSnackbar.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKSwitch.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKTableViewCell.swift": [538999237, 0]
+  "/Users/kirakutomoki/Desktop/ios-nitaku/nitaku/Pods/MaterialKit/Source/MKTextField.swift": [538999237, 0]
