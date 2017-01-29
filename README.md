@@ -1,2 +1,7 @@
 # ios-nitaku
-test commit for slack
+```
+git clone git@github.com:inct07/ios-nitaku.git
+
+cd ios-nitaku
+pod install
+```
